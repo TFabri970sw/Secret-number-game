@@ -12,4 +12,4 @@
 
 # Time
 
-| [<img loading="lazy" src="https:" width=115><br><sub>Thiago Fabri</sub>]()
+| [<img loading="lazy" src="https:" width=115><br><sub>Thiago Fabri</sub>](https://github.com/TFabri970sw)
